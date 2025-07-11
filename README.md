@@ -44,15 +44,4 @@
 
 ## 📦 Project Structure
 
-```bash
-OfferOverflow/
-├── public/
-├── src/
-│   ├── components/
-│   ├── services/    # GPT / audio API
-│   └── views/
-├── backend/
-│   └── server.js
-├── README.md
-├── README.zh-CN.md
-└── package.json
+
